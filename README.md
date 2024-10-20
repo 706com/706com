@@ -16,5 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/706com"/>
+<img
+  src="https://render.gitanimals.org/farms/706com"
+  width="600"
+  height="300"
+/>
 </a>
+
