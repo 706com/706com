@@ -1,6 +1,6 @@
 ## Nice To Meeeet you!  👋
 
-협업을 좋아하는 백엔드 개발자 입니다. 개인보다 공동의 목표를 이루는 것을 더 좋아합니다 :)
+협업을 좋아하는 백엔드 개발자 입니다. 개인보다 공동의 목표를 이루는 것을 좋아합니다 :)
 
 <!--
 **706com/706com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br><br><br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdgusjdbswl)](https://solved.ac/ehdgusjdbswl/)  
 
-<br><br>
 
-## ⛓️ Tech Stacks
+## ⛓️ Tech Skills
 
 ### 🚀 Backend
 <div>
